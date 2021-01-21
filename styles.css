@@ -1,0 +1,14 @@
+body{background-color: black; margin: 0;}
+h1{font-size: 35px;}
+.postcard{background: white; color:white; background-size: cover; background-image: url(https://kobamisu.files.wordpress.com/2009/12/gareimangayomiandkagura.jpg) ; width: 500px; height: 350px; padding: 15px; position: absolute; left: 25%; top: 25%}
+.postcard h1{width:50%; margin-right: 0%; display: inline-block;}
+.postcard-header img{float: right; max-width: 50px;}
+.right-part{float: right; width: 50%;}
+.right-part input{display: block;}
+.left-part{float: left; width: 50%;}
+.postcard-botom{text-align: center; display: block;}
+.postcard-body{overflow: hidden;}
+input{margin: 10px;}
+p{
+    margin-top: 0;
+}
